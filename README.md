@@ -1,5 +1,8 @@
 # Hedgehog
 
+email: wlxing@yahoo.com
+author: Jason Xing
+
 Hedgehog is developed by Jason Xing, aimming to implement encrypt/decrypt/hash function for target file/directory. The reason why i named after this program "Hedgehog" is that I want to memorize my beloved and lovely mini-hedgehog that has gone a few mounths ago : (
 
 Why do I design and implement that encrypt/decrypt function?
